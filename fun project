@@ -1,5 +1,0 @@
-We can change text and image of different web pages and article through inspect.
-But the change is temporary and only visible in our devices.
-To change the text/ paragraph in article we have to go in developer tools and find paragraph where text can be located.
-We simply select and can change the text likewise if we want to change image in that page, we have to choose link where the image is located and paste any different image link.
-By this way we can change text and image of that page for temporary because after refreshing that page everything went back to normal.

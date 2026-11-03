@@ -1,7 +1,0 @@
-Button
-It is an interactive HTML tag. 
-<button> it also have an end tag </button>
-It doesn't do anything without adding any features.
-We have to use Java script to add features in button icon.
-Syntax: <button> Text </button>
-Text between button tag is present in icon.
