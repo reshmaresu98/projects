@@ -1,0 +1,12 @@
+.click {
+    border-radius: 20px;
+    background-color: #fcfcfc;
+    border: 1px solid #cfc5c5;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight:bold;
+    font-color: #0f1419;
+    border-color: #cfd9d4;
+}
