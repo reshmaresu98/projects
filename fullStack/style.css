@@ -1,0 +1,13 @@
+body{
+    background-color: lightblue;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+
+}
+h1{
+    color:#f1f1f1;
+    text-shadow: 2px 2px 4px #000000;
+
+    font-weight: bold;
+}
