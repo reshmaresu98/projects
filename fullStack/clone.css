@@ -15,25 +15,42 @@ p{
     text-align: center;
     font-size: 18px;
 }
+.main{
+    text-align: center;
+    margin-top: 50px;
+    
+}
 input {
     display: block;
+    line-height: 24px;
     margin: 20px auto;
-    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
     font-size: 16px;
-    box-shadow: 1px 1px 5px rgba(63, 63, 63, 0.1);
-    width: 80%;
+    width: 600px;
+    border-radius: 25px;
+    border: 1px solid #dfe1e5;
 }
 .click {
     display: inline-block;
-    margin: 20px;
-    padding: 10px 20px;
+    margin: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
     font-size: 12px;
-    background-color: #b7ebc2;
-    color: #0b0b0b;
+    background-color: #c9e5cf;
+    color: #080808;
+    border: none;
+    border-radius: 25px;
     cursor: pointer;
-    border: 1px solid #0b0b0b;
-    width:40%;
 
+}
+.buttons {
+    display: flex;
+    justify-content: center;
 }
 img {
     display: block;
