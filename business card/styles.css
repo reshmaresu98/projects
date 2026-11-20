@@ -1,3 +1,25 @@
 body{
     margin: 0;
+    
+}
+/*.image-div {
+    width: 200%;
+    height: 200%;
+    background-image: url('../image/bdy_pic.png.jpeg') alt="background image";
+    background-size: contain;
+    background-position: no-repeat;
+}
+
+.profile-image {
+    border-radius: 50%;
+    margin-top: 20px;
+}
+*/
+
+.card {
+    padding: 20px;
+    border: 1px solid #ccc;
+    display:flex;
+    flex-direction: column;
+
 }
