@@ -1,0 +1,13 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.flex-child {
+    flex: 1;
+    padding: 20px;
+    border: 2px dotted blueviolet;
+    margin: 10px;
+    text-align: center;
+}
